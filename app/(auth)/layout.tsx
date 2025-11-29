@@ -18,7 +18,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
       </section>
 
       <section className="auth-right-section">
-        <div className="z-10 relative lg:mt-4 lg:mb16">
+        <div className="z-10 relative lg:mt-4 lg:mb-16">
           <blockquote className="auth-blockquote">
             Signalist has transformed the way I track stocks. The real-time
             updates and insights are invaluable for making informed decisions.
