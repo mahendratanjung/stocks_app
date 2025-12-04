@@ -1,9 +1,7 @@
 <div align="center">
   <br />
-  <div style="display: flex; justify-content: center; gap: 15px;">
-    <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard" width="50%" style="border-radius: 8px;">
-    <img src="public/assets/images/stock-details.png" alt="Stock Details" width="50%" style="border-radius: 8px;">
-  </div>
+    <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard" width = "90%">
+    <img src="public/assets/images/stock-details.png" alt="Stock Details" width = "90%">
   <br />
 
   <div>
@@ -11,12 +9,11 @@
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
   <img src="https://img.shields.io/badge/-Better Auth-black?style=for-the-badge&logoColor=white&logo=betterauth&color=black"/>
 <img src="https://img.shields.io/badge/-Shadcn-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=black"/>
-<img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logoColor=white&logo=vercel&color=black"/>
+<img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logoColor=white&logo=vercel&color=black"/><br/>
 
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-00A35C?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 
   </div>
 
