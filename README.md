@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <div style="display: flex; justify-content: center; gap: 15px;">
-    <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard" width="50%" style="border-radius: 8px;">
+    <img src="public/assets/images/main-dashboard.png" alt="Main Dashboard" width="50%" style="border-radius: 8px;"><br/>
     <img src="public/assets/images/stock-details.png" alt="Stock Details" width="50%" style="border-radius: 8px;">
   </div>
   <br />
